@@ -15,11 +15,6 @@
 pip install "git+https://github.com/kni85/stat_ts.git"
 ```
 
-### 2. из PyPI
-```bash
-pip install stat-ts
-```
-
 ## Быстрое начало
 
 ```python
